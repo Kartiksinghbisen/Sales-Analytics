@@ -28,10 +28,7 @@ AtliQ Hardware specializes in selling computers and accessories globally through
 
 ## Customer Net Sales Performance
 
-
-
 The insights gained from the analysis of customer net sales performance indicate that the company's sales efforts have been effective in meeting or exceeding its predetermined targets.
 This suggests that the company's sales team is adept at identifying and capitalizing on opportunities, and its products or services are resonating well with customers.
 
-"C:\Users\aarya\Downloads\customer_performace_report.pdf"
 
