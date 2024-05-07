@@ -37,3 +37,6 @@ This suggests that the company's sales team is adept at identifying and capitali
 2. ## Market Performance vs Target
 The market performance compared to the set targets implies that the company's strategies and initiatives have been successful in capturing a larger share of the market than initially anticipated.
 
+
+![Screenshot 2024-05-07 205541](https://github.com/Kartiksinghbisen/Sales-Analytics/assets/139736045/ac71b273-e9e7-4b9a-b408-8325c5fe328c)
+
