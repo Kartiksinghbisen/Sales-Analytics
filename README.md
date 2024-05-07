@@ -1,6 +1,6 @@
 # Sales-Analytics
 
-# Welcome to the AtliQ Hardware Data Analytics Project Repository!
+## Welcome to the AtliQ Hardware Data Analytics Project Repository!
 
 **About the Project**
 
