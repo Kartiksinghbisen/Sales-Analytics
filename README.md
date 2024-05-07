@@ -90,11 +90,7 @@ Through careful analysis, I discovered the top 5 countries in terms of net sales
 Breaking down the profit and loss statement into quarters offers a granular view of the company's financials.
 This analysis helps uncover seasonality, growth patterns, and areas for improvement or attention.
 
-
-
-9. ## P & L for Countries
-   
-By examining the profit and loss statement on a country level, we gain valuable insights into the performance of AtliQ hardwares across different markets.
-This report allows us to compare profitability, identify top-performing regions, and optimize business strategies
-
 ![Screenshot 2024-05-07 211110](https://github.com/Kartiksinghbisen/Sales-Analytics/assets/139736045/9dd243b4-4a49-499f-80d7-b8208c66c4f9)
+
+
+
