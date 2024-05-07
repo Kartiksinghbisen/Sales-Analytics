@@ -2,7 +2,7 @@
 
 # **Welcome to the AtliQ Hardware Data Analytics Project Repository!**
 
-**About the Project**
+## About the Project
 
 Welcome to the AtliQ Hardware Data Analytics project repository! This project focuses on leveraging data analytics techniques to provide insightful reports for AtliQ Hardware, a global leader in computer and computer accessories sales.
 
