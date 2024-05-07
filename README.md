@@ -46,3 +46,7 @@ Analyzing the profit and loss statement across different fiscal years provides a
 It helps identify revenue, expenses, and net profit or loss trends, enabling strategic decision-making.
 
 ![Screenshot 2024-05-07 205938](https://github.com/Kartiksinghbisen/Sales-Analytics/assets/139736045/573bc667-d696-4e8e-993a-1826a3ab9f1d)
+
+4. ## The Top 10 Products
+I identified the top 10 products with the highest percentage increase in net sales from 2020 to 2021.
+📈 These products played a pivotal role in driving revenue growth and making a significant impact on the company's success.
