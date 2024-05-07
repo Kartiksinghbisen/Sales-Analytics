@@ -58,23 +58,24 @@ I identified the top 10 products with the highest percentage increase in net sal
 I generated a comprehensive report that showcased the net sales data for 2020 and 2021, along with the growth percentage.
 📊 This report helped visualize the performance of different divisions within the organization, providing crucial insights for strategic decision-making.
 
-![Screenshot 2024-05-07 210744](https://github.com/Kartiksinghbisen/Sales-Analytics/assets/139736045/2aee2a20-5860-4520-b728-474da9f9cc50)
+![Screenshot 2024-05-07 210800](https://github.com/Kartiksinghbisen/Sales-Analytics/assets/139736045/d3981823-4897-4319-a9ac-1a2136c2586c)
 
 By examining the quantity sold, I determined the top 5 and bottom 5 products in terms of sales volume.
 📉 These rankings shed light on the key drivers of sales and allowed us to identify opportunities for improvement.
 
 Top 5 Products
-![Screenshot 2024-05-07 210800](https://github.com/Kartiksinghbisen/Sales-Analytics/assets/139736045/d3981823-4897-4319-a9ac-1a2136c2586c)
+![Screenshot 2024-05-07 210822](https://github.com/Kartiksinghbisen/Sales-Analytics/assets/139736045/3fa2476d-f9c0-4fd6-bf9c-2a499e072b8f)
 
 6. ## Quantity Sold Rankings
 
 Bottom 5 Products
-![Screenshot 2024-05-07 210822](https://github.com/Kartiksinghbisen/Sales-Analytics/assets/139736045/3fa2476d-f9c0-4fd6-bf9c-2a499e072b8f)
+![Screenshot 2024-05-07 210834](https://github.com/Kartiksinghbisen/Sales-Analytics/assets/139736045/0d273ea3-3c2b-4353-9945-79383fb651aa)
 
 ## New Product Expansion
 
 I explored the new products introduced by Atliq in 2021.
-![Screenshot 2024-05-07 210834](https://github.com/Kartiksinghbisen/Sales-Analytics/assets/139736045/0d273ea3-3c2b-4353-9945-79383fb651aa)
+
+![Screenshot 2024-05-07 211027](https://github.com/Kartiksinghbisen/Sales-Analytics/assets/139736045/834518d1-712f-4b68-abe9-72fb17641308)
 
 
 
@@ -82,15 +83,14 @@ I explored the new products introduced by Atliq in 2021.
 
 Through careful analysis, I discovered the top 5 countries in terms of net sales in 2021.
 🌍 These markets were instrumental in driving our global sales performance, and understanding their dynamics helped us tailor our strategies for maximum effectiveness.
-
-![Screenshot 2024-05-07 211027](https://github.com/Kartiksinghbisen/Sales-Analytics/assets/139736045/834518d1-712f-4b68-abe9-72fb17641308)
+![Screenshot 2024-05-07 211041](https://github.com/Kartiksinghbisen/Sales-Analytics/assets/139736045/1b1e5fc9-fdf0-4c0e-bb9c-6b619af0b183)
 
 8. ## P & L by Quarters
 
 Breaking down the profit and loss statement into quarters offers a granular view of the company's financials.
 This analysis helps uncover seasonality, growth patterns, and areas for improvement or attention.
 
-![Screenshot 2024-05-07 211041](https://github.com/Kartiksinghbisen/Sales-Analytics/assets/139736045/1b1e5fc9-fdf0-4c0e-bb9c-6b619af0b183)
+
 
 9. ## P & L for Countries
    
