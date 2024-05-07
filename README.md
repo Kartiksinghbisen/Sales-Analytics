@@ -45,3 +45,4 @@ The market performance compared to the set targets implies that the company's st
 Analyzing the profit and loss statement across different fiscal years provides a comprehensive overview of AtliQ Hardwares' financial performance.
 It helps identify revenue, expenses, and net profit or loss trends, enabling strategic decision-making.
 
+![Screenshot 2024-05-07 205938](https://github.com/Kartiksinghbisen/Sales-Analytics/assets/139736045/573bc667-d696-4e8e-993a-1826a3ab9f1d)
