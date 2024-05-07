@@ -32,5 +32,4 @@ The insights gained from the analysis of customer net sales performance indicate
 This suggests that the company's sales team is adept at identifying and capitalizing on opportunities, and its products or services are resonating well with customers.
 
 
-[customer_performace_report.pdf](https://github.com/Kartiksinghbisen/Sales-Analytics/files/15237542/customer_performace_report.pdf)
 
