@@ -18,8 +18,8 @@ AtliQ Hardware has initiated a data analytics journey using MS Excel to address 
 
 ## Business Terminology
 
-## Net Sales##: Total revenue after deductions.
-Gross Margin: Profit from core business operations.
+1. Net Sales: Total revenue after deductions.
+2. Gross Margin: Profit from core business operations.
 
-**Company Background**
+## Company Background
 AtliQ Hardware specializes in selling computers and accessories globally through retailers, direct sales, and distributors. With a significant global presence, the company continues to expand its operations.
